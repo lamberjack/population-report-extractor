@@ -1,0 +1,14 @@
+com/reading/FileReaderTestValues.class
+com/writing/PopulationReportDataWriterTestValues.class
+com/parsing/MunicipalityParserTestValues.class
+com/calculator/PopulationReportDataCalculatorTestValues.class
+com/parsing/UserMunicipalityParserHelperTest.class
+com/writing/PopulationReportDataWriterTest.class
+com/parsing/UserMunicipalityParserHelperTestValues.class
+com/parsing/UserParserTest.class
+com/calculator/PopulationYoungWomanCalculatorTest.class
+com/calculator/PopulationYoungWomanCalculatoTestValues.class
+com/calculator/PopulationReportDataCalculatorTest.class
+com/reading/FileReaderTest.class
+com/parsing/UserParserTestValues.class
+com/parsing/MunicipalityParserTest.class
